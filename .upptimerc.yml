@@ -8,9 +8,9 @@ sites:
   - name: BrandTag Server
     url: https://trasee.brandtag.io
   - name: Papyrus
-    url: https://papyrus.luxtag.io/
+    url: https://papyrus.luxtag.io
   - name: Papyrus Server
-    url: https://x2.event.luxtag.io/
+    url: https://x2.event.luxtag.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
