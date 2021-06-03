@@ -1,5 +1,23 @@
 [
   {
+    "name": "Official Website",
+    "url": "https://www.luxtag.io",
+    "icon": "https://favicons.githubusercontent.com/www.luxtag.io",
+    "slug": "official-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "BrandTag",
     "url": "https://app.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/app.brandtag.io",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "time": 65,
+    "timeDay": 65,
+    "timeWeek": 65,
+    "timeMonth": 65,
+    "timeYear": 65,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 708,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 303,
+    "timeDay": 303,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 971,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "time": 966,
+    "timeDay": 966,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {}
   }
 ]
