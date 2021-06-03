@@ -3,6 +3,8 @@ owner: luxtagofficial # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
+  - name: Official Website
+    url: https://www.luxtag.io
   - name: BrandTag
     url: https://app.brandtag.io
   - name: BrandTag Server
