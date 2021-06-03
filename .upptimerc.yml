@@ -5,22 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: BrandTag
     url: https://app.brandtag.io
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BrandTag Server
+    url: https://trasee.brandtag.io
+  - name: Papyrus
+    url: https://papyrus.luxtag.io/
+  - name: Papyrus Server
+    url: https://x2.event.luxtag.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  baseUrl: /$REPO
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a LuxTag status page which uses **real-time** data from our [GitHub repository](https://github.com/luxtagofficial/upptime).
+  introMessage: This is a LuxTag status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
     - title: Status
       href: /
