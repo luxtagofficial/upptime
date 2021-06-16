@@ -15,7 +15,9 @@ sites:
     url: https://app.brandtag.io
   - name: BrandTag API
     url: https://trasee.brandtag.io
-  - name: BrandTag Blockchain
+  - name: BrandTag Blockchain Explorer
+    url: https://blox.brandtag.io
+  - name: BrandTag Blockchain API
     url: https://api.brandtag.io/chain/height
 # Papyrus
   - name: Papyrus
@@ -32,7 +34,9 @@ sites:
     url: https://app.staging.brandtag.io
   - name: BrandTag Staging API
     url: https://trasee.staging.brandtag.io
-  - name: BrandTag Staging Blockchain
+  - name: BrandTag Blockchain Explorer
+    url: https://blox.staging.brandtag.io
+  - name: BrandTag Staging Blockchain API
     url: https://api.staging.brandtag.io/node/info
 
 status-website:
