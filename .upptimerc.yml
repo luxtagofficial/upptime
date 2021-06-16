@@ -16,7 +16,7 @@ sites:
   - name: BrandTag API
     url: https://trasee.brandtag.io
   - name: BrandTag Blockchain
-    url: https://api.brandtag.io
+    url: https://api.brandtag.io/chain/height
 # Papyrus
   - name: Papyrus
     url: https://papyrus.luxtag.io
@@ -33,7 +33,7 @@ sites:
   - name: BrandTag Staging API
     url: https://trasee.staging.brandtag.io
   - name: BrandTag Staging Blockchain
-    url: https://api.staging.brandtag.io
+    url: https://api.staging.brandtag.io/node/info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
