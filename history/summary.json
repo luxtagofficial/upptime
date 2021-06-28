@@ -94,9 +94,9 @@
     "url": "https://blox.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/blox.brandtag.io",
     "slug": "brand-tag-blockchain-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -106,6 +106,7 @@
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2021-06-28": 0,
       "2021-06-23": 10
     }
   },
@@ -186,18 +187,19 @@
     "url": "https://escrollapi.demo.luxtag.io",
     "icon": "https://favicons.githubusercontent.com/escrollapi.demo.luxtag.io",
     "slug": "e-scroll-demo-api",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 682,
     "timeDay": 715,
     "timeWeek": 686,
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2021-06-28": 1,
       "2021-06-23": 10
     }
   },
@@ -224,18 +226,19 @@
     "url": "https://trasee.staging.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/trasee.staging.brandtag.io",
     "slug": "brand-tag-staging-api",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 678,
     "timeDay": 723,
     "timeWeek": 691,
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {
+      "2021-06-28": 1,
       "2021-06-16": 16
     }
   },
@@ -244,9 +247,9 @@
     "url": "https://blox.staging.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/blox.staging.brandtag.io",
     "slug": "brand-tag-blockchain-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -256,6 +259,7 @@
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2021-06-28": 0,
       "2021-06-23": 10
     }
   },
