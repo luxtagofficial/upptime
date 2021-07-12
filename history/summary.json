@@ -96,10 +96,10 @@
     "url": "https://blox.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/blox.brandtag.io",
     "slug": "brand-tag-blockchain-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
     "time": 731,
@@ -108,6 +108,7 @@
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
+      "2021-07-12": 2,
       "2021-06-28": 67,
       "2021-06-23": 10
     }
@@ -191,18 +192,19 @@
     "url": "https://escrollapi.demo.luxtag.io",
     "icon": "https://favicons.githubusercontent.com/escrollapi.demo.luxtag.io",
     "slug": "e-scroll-demo-api",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 705,
     "timeDay": 726,
     "timeWeek": 646,
     "timeMonth": 705,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2021-07-12": 5,
       "2021-06-28": 71,
       "2021-06-23": 10
     }
@@ -230,10 +232,10 @@
     "url": "https://trasee.staging.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/trasee.staging.brandtag.io",
     "slug": "brand-tag-staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 700,
@@ -242,6 +244,7 @@
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2021-07-12": 3,
       "2021-06-28": 70,
       "2021-06-16": 16
     }
@@ -251,10 +254,10 @@
     "url": "https://blox.staging.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/blox.staging.brandtag.io",
     "slug": "brand-tag-blockchain-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
     "time": 731,
@@ -263,6 +266,7 @@
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
+      "2021-07-12": 2,
       "2021-06-28": 67,
       "2021-06-23": 10
     }
@@ -272,18 +276,19 @@
     "url": "https://api.staging.brandtag.io/node/info",
     "icon": "https://favicons.githubusercontent.com/api.staging.brandtag.io",
     "slug": "brand-tag-staging-blockchain-api",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 681,
     "timeDay": 724,
     "timeWeek": 659,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2021-07-12": 0,
       "2021-06-28": 46
     }
   }
