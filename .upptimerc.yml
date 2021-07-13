@@ -34,7 +34,7 @@ sites:
     url: https://app.staging.brandtag.io
   - name: BrandTag Staging API
     url: https://trasee.staging.brandtag.io
-  - name: BrandTag Blockchain Explorer
+  - name: BrandTag Staging Blockchain Explorer
     url: https://blox.staging.brandtag.io
   - name: BrandTag Staging Blockchain API
     url: https://api.staging.brandtag.io/node/info
