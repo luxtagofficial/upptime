@@ -43,19 +43,19 @@
     "url": "https://e-scroll.my",
     "icon": "https://favicons.githubusercontent.com/e-scroll.my",
     "slug": "e-scroll-my",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1227,
-    "timeDay": 651,
-    "timeWeek": 1043,
-    "timeMonth": 1153,
-    "timeYear": 1227,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1225,
+    "timeDay": 802,
+    "timeWeek": 1050,
+    "timeMonth": 1151,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 21
     }
   },
   {
