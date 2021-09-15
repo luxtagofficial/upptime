@@ -4,19 +4,19 @@
     "url": "https://www.luxtag.io",
     "icon": "https://favicons.githubusercontent.com/www.luxtag.io",
     "slug": "lux-tag-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 68,
-    "timeWeek": 103,
-    "timeMonth": 107,
-    "timeYear": 112,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.85%",
+    "time": 114,
+    "timeDay": 169,
+    "timeWeek": 133,
+    "timeMonth": 115,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2021-09-15": 0
+      "2021-09-15": 195
     }
   },
   {
