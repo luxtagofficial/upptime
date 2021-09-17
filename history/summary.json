@@ -154,18 +154,20 @@
     "url": "https://papyrus.luxtag.io",
     "icon": "https://favicons.githubusercontent.com/papyrus.luxtag.io",
     "slug": "papyrus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 47,
-    "timeWeek": 72,
-    "timeMonth": 82,
-    "timeYear": 132,
-    "dailyMinutesDown": {}
+    "time": 133,
+    "timeDay": 158,
+    "timeWeek": 96,
+    "timeMonth": 88,
+    "timeYear": 133,
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   },
   {
     "name": "Papyrus API",
@@ -238,18 +240,20 @@
     "url": "https://app.staging.brandtag.io",
     "icon": "https://favicons.githubusercontent.com/app.staging.brandtag.io",
     "slug": "brand-tag-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 31,
-    "timeWeek": 89,
-    "timeMonth": 92,
+    "timeDay": 77,
+    "timeWeek": 93,
+    "timeMonth": 93,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   },
   {
     "name": "BrandTag Staging API",
