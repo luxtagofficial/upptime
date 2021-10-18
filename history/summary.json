@@ -47,9 +47,9 @@
     "url": "https://e-scroll.my",
     "icon": "https://favicons.githubusercontent.com/e-scroll.my",
     "slug": "e-scroll-my",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -59,6 +59,7 @@
     "timeMonth": 1157,
     "timeYear": 1209,
     "dailyMinutesDown": {
+      "2021-10-18": 0,
       "2021-08-31": 21
     }
   },
@@ -224,11 +225,11 @@
     "icon": "https://favicons.githubusercontent.com/escrollapi.demo.luxtag.io",
     "slug": "e-scroll-demo-api",
     "status": "up",
-    "uptime": "90.27%",
+    "uptime": "90.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "61.38%",
-    "uptimeYear": "90.27%",
+    "uptimeYear": "90.29%",
     "time": 663,
     "timeDay": 561,
     "timeWeek": 601,
