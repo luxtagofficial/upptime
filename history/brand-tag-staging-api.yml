@@ -1,7 +1,7 @@
 url: https://trasee.staging.brandtag.io
-status: down
-code: 502
-responseTime: 740
-lastUpdated: 2022-02-25T03:13:28.801Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2022-02-25T03:25:42.129Z
 startTime: Wed Jun 16 2021 11:11:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
