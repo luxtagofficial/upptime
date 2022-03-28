@@ -38,6 +38,15 @@ sites:
     url: https://blox.staging.brandtag.io
   - name: BrandTag Staging Blockchain API
     url: https://rest.staging.brandtag.io/node/info
+# Scribe Staging
+  - name: Scribe Staging
+    url: https://app.staging.scribeme.io
+  - name: Scribe Staging API
+    url: https://api.staging.scribeme.io
+  - name: Scribe Staging Blockchain Explorer
+    url: https://blox.staging.scribeme.io
+  - name: Scribe Staging Blockchain API
+    url: https://rest.staging.scribeme.io/node/info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
