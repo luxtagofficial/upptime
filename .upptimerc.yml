@@ -8,8 +8,8 @@ sites:
     url: https://www.luxtag.io
   - name: BrandTag.io
     url: https://www.brandtag.io
-  - name: eScroll.my
-    url: https://e-scroll.my
+#   - name: eScroll.my
+#     url: https://e-scroll.my
 # BrandTag Production
   - name: BrandTag
     url: https://app.brandtag.io
