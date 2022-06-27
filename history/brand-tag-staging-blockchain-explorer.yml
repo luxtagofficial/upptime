@@ -1,7 +1,7 @@
 url: https://blox.staging.brandtag.io
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2022-06-26T23:01:14.515Z
+status: down
+code: 502
+responseTime: 851
+lastUpdated: 2022-06-27T02:05:42.538Z
 startTime: Tue Jul 13 2021 08:17:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
