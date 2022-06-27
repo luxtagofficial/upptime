@@ -1,7 +1,7 @@
 url: https://rest.staging.scribeme.io/node/info
-status: up
-code: 200
-responseTime: 591
-lastUpdated: 2022-06-26T23:01:18.963Z
+status: down
+code: 502
+responseTime: 730
+lastUpdated: 2022-06-27T02:05:54.297Z
 startTime: Mon Mar 28 2022 09:32:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
