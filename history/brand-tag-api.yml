@@ -1,7 +1,7 @@
 url: https://api.brandtag.io
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2022-07-23T21:00:19.270Z
+status: down
+code: 502
+responseTime: 415
+lastUpdated: 2022-07-23T21:10:45.594Z
 startTime: Wed Jun 16 2021 11:11:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
