@@ -1,7 +1,7 @@
 url: https://rest.staging.brandtag.io/node/info
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2022-07-28T02:17:29.955Z
+status: down
+code: 503
+responseTime: 1106
+lastUpdated: 2022-07-28T19:37:33.149Z
 startTime: Wed Jun 16 2021 12:51:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
