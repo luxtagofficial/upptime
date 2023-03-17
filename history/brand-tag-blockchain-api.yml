@@ -1,7 +1,7 @@
 url: https://rest.brandtag.io/chain/height
-status: up
-code: 200
-responseTime: 790
-lastUpdated: 2023-03-17T05:54:26.538Z
+status: down
+code: 500
+responseTime: 682
+lastUpdated: 2023-03-17T06:14:59.904Z
 startTime: Wed Jun 16 2021 12:51:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
