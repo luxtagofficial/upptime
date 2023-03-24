@@ -134,14 +134,14 @@
     "url": "https://rest.brandtag.io/chain/height",
     "icon": "https://icons.duckduckgo.com/ip3/rest.brandtag.io.ico",
     "slug": "brand-tag-blockchain-api",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "68.05%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "68.58%",
     "uptimeWeek": "75.04%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "99.51%",
     "time": 688,
-    "timeDay": 695,
+    "timeDay": 698,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 699,
@@ -153,7 +153,7 @@
       "2023-03-20": 456,
       "2023-03-19": 258,
       "2023-03-18": 284,
-      "2023-03-17": 336
+      "2023-03-17": 279
     }
   },
   {
@@ -225,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-03-24": 454,
+      "2023-03-24": 462,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -506,7 +506,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/escrollapi.demo.luxtag.io.ico",
     "slug": "e-scroll-demo-api",
     "status": "down",
-    "uptime": "51.13%",
+    "uptime": "51.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -517,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-03-24": 454,
+      "2023-03-24": 462,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -939,7 +939,7 @@
     "timeMonth": 699,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-03-24": 455,
+      "2023-03-24": 462,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -1226,7 +1226,7 @@
     "timeMonth": 686,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-03-24": 455,
+      "2023-03-24": 462,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -1554,7 +1554,7 @@
     "timeMonth": 0,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-03-24": 455,
+      "2023-03-24": 462,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -1738,7 +1738,7 @@
     "timeMonth": 0,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-03-24": 455,
+      "2023-03-24": 463,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -2074,7 +2074,7 @@
     "timeMonth": 0,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-03-24": 455,
+      "2023-03-24": 463,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -2372,7 +2372,7 @@
     "timeMonth": 0,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-03-24": 455,
+      "2023-03-24": 463,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
