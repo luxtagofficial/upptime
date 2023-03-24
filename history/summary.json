@@ -135,11 +135,11 @@
     "url": "https://rest.brandtag.io/chain/height",
     "icon": "https://icons.duckduckgo.com/ip3/rest.brandtag.io.ico",
     "slug": "brand-tag-blockchain-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "65.16%",
+    "uptimeDay": "65.14%",
     "uptimeWeek": "74.32%",
-    "uptimeMonth": "93.96%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "99.50%",
     "time": 688,
     "timeDay": 714,
@@ -154,7 +154,7 @@
       "2023-03-20": 456,
       "2023-03-19": 258,
       "2023-03-18": 284,
-      "2023-03-17": 102
+      "2023-03-17": 81
     }
   },
   {
@@ -227,7 +227,7 @@
     "timeMonth": 0,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1104,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1104,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -942,7 +942,7 @@
     "timeMonth": 699,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1105,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -1229,7 +1229,7 @@
     "timeMonth": 686,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1105,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -1546,18 +1546,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.scribeme.io.ico",
     "slug": "scribe-staging",
     "status": "down",
-    "uptime": "56.39%",
+    "uptime": "56.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "56.39%",
+    "uptimeYear": "56.38%",
     "time": 148,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1105,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -1741,7 +1741,7 @@
     "timeMonth": 0,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1105,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -2077,7 +2077,7 @@
     "timeMonth": 0,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-03-24": 1091,
+      "2023-03-24": 1105,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
@@ -2375,7 +2375,7 @@
     "timeMonth": 0,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-03-24": 1092,
+      "2023-03-24": 1105,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
