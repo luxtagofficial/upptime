@@ -1,7 +1,7 @@
 url: https://api.staging.brandtag.io
-status: up
-code: 200
-responseTime: 2178
-lastUpdated: 2023-04-13T23:00:46.896Z
+status: down
+code: 502
+responseTime: 594
+lastUpdated: 2023-04-14T14:24:46.528Z
 startTime: Wed Jun 16 2021 11:11:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
